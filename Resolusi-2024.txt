@@ -1,0 +1,4 @@
+Resolusi di tahun 2024
+- Konsisten mempelajari javascript untuk front-end
+- Memebuat project website dengan framework css 
+- mengupload project website ke dalam github
