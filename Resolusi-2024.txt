@@ -2,3 +2,5 @@ Resolusi di tahun 2024
 - Konsisten mempelajari javascript untuk front-end
 - Memebuat project website dengan framework css 
 - mengupload project website ke dalam github
+
+- kedepannya setelah mempelajari javascript maka saya akan belajar library javascript yaitu react js
